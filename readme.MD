@@ -1,4 +1,7 @@
 # Simple affiliate smart contract with Solidity
+Pip installs:
+```pip install eth-brownie```
+
 You must set up an .env file in the base directory (affiliate_brownie) for this to work.
 example .env file:
 ```
